@@ -167,6 +167,52 @@ public class Main {
 - C# : Microsoft Visual Studio
 
 ---
+### ☕ 7. Linguagem de Programação
+
+7.1 Código fonte
+
+- Escrito pelo programador em linguagem de programação
+
+7.2 Compilação
+
+![image](https://github.com/user-attachments/assets/cbd0ef38-2eae-4a46-9d50-f913b164b9c8)
+
+
+7.3 Interpretação
+
+![image](https://github.com/user-attachments/assets/25d09920-d0cb-487d-b0ad-936a6847de1d)
+
+7.4 Abordagem híbrida
+
+![image](https://github.com/user-attachments/assets/74e3177a-28ec-4a68-8db4-fab91f51e294)
+
+
+7.5 Vantagens
+
+Compilação:
+
+- Velocidade do programa.
+- Auxilio do computador antes da execução.
+
+Interpretação:
+
+- Flexibilidade de manutenção do aplicativo em produção.
+- Expressividade da linguagem.
+- Código fonte não precisa ser recompilado para rodar em plataformas diferentes.
+
+Abordagem híbrida
+
+- Auxílio do compilador antes da execução.
+- Código fonte não precisa ser recompilado para rodar em plataformas diferentes.
+![image](https://github.com/user-attachments/assets/66d0f60a-20e4-4a56-b019-6a9f8edd1b48)
+
+
+
+---
+
+### Anexos
+
+https://prod-files-secure.s3.us-west-2.amazonaws.com/1b28da91-f02b-407b-b2c8-6720e71da69e/64578581-ccaf-4428-bfe7-52afcbf8bf79/02-introducao.pdf
 
 ### Anexos
 

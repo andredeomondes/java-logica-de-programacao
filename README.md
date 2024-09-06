@@ -13,6 +13,9 @@ O curso cobre uma ampla gama de tópicos essenciais para o desenvolvimento em Ja
 - **Conceitos Básicos:** Introdução à programação e fundamentos da linguagem Java.
 - **Estrutura Sequencial:** Execução de instruções de forma linear e básica.
 - **Estrutura Condicional:** Uso de condições para controlar o fluxo do programa.
+- **Estrutura de Repetição**: Implementação de loops para execução repetitiva de blocos de código.
+- **Vetores**: Manipulação e operação com arrays unidimensionais.
+- **Matrizes**: Manipulação e operação com arrays bidimensionais.
 
 ## O que Estou Estudando Agora
 

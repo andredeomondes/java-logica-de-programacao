@@ -26,3 +26,4 @@ Atualmente, estou estudando **Estrutura Condicional**, que envolve o uso de inst
 - [Conceitos Básicos](https://github.com/andredeomondes/java-logica-de-programacao/blob/main/conceitos-basicos.md)
 - [Estrutura Sequencial](https://github.com/andredeomondes/java-logica-de-programacao/blob/main/estrutura-sequencial/estrutura-sequencial.md)
 - [Estrutura Condicional](https://github.com/andredeomondes/java-logica-de-programacao/blob/main/estrutura-condicional/estrutura-condicional.md)
+- [Estrutura Repetitiva](https://github.com/andredeomondes/java-logica-de-programacao/tree/main/estrutura-repetitiva/estrutura_repetitiva)
